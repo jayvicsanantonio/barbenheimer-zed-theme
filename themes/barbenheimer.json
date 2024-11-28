@@ -108,7 +108,7 @@
         "conflict": "#ffeb95cc",
         "conflict.background": null,
         "conflict.border": null,
-        "created": "#80CBC4CC", // Changed to a lighter, teal-ish color
+        "created": "#80CBC4CC",
         "created.background": null,
         "created.border": null,
         "deleted": "#EF5350CC",
