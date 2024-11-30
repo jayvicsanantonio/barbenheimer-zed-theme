@@ -4,7 +4,7 @@
   "author": "Jayvic San Antonio <codes@jayvicsanantonio.dev>",
   "themes": [
     {
-      "name": "Barbenheimer Dark",
+      "name": "Barbenheimer Bunker",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -583,7 +583,7 @@
       }
     },
     {
-      "name": "Barbenheimer Light",
+      "name": "Barbenheimer Dreamhouse",
       "appearance": "light",
       "style": {
         "background.appearance": "opaque",
@@ -1162,7 +1162,7 @@
       }
     },
     {
-      "name": "Barbenheimer High Contrast",
+      "name": "Barbenheimer Nuclear Sunrise",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
