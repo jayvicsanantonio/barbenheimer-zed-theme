@@ -1,6 +1,6 @@
 id = "barbenheimer"
 name = "Barbenheimer Theme"
-version = "1.2.0"
+version = "1.3.0"
 schema_version = 1
 authors = ["Jayvic San Antonio <codes@jayvicsanantonio.dev>"]
 description = "A theme inspired by the Internet phenomenon of the same name. It combines the pink and playful aesthetics of Barbie with the dark and dramatic tones of Oppenheimer."
