@@ -1,1 +1,32 @@
 /target
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings and workspace
+.vscode/
+*.code-workspace
+
+# Zed editor settings (if any)
+.zed/
+
+# Build and packaging outputs
+/dist/
+/build/
+*.vsix
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Other editors
+.idea/
+*.sublime-workspace
+*.sublime-project
