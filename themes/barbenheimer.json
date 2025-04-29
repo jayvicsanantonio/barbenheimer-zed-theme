@@ -1264,7 +1264,7 @@
         "terminal.ansi.dim_white": null,
         "link_text.hover": "#F0E0B0",
         "conflict": "#F0C090",
-        "conflict.background": "null",
+        "conflict.background": null,
         "conflict.border": null,
         "created": "#F2A0C0CC",
         "created.background": null,
